@@ -15,6 +15,10 @@ We have to understand if there is a trend for guests with personal cars.
 " What trends can we see in the data? "
 Focus on average daily rate and guests to explore seasonality.
 
+# These Questions can be solved in two ways :
+  1. By implementing Query in MySQL
+  2. By using DAX measures in Power BI
+
 # Project Pipeline
 
 Build a Database: uploading Excel data sheets -(attached to repo)- to Microsoft SQL Server Studio.
