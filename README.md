@@ -1,7 +1,7 @@
 # Hotel_Analysis
 Project About hotel bookings from past 3 years (2018, 2019, 2020) and analysis of their revenue of hotels
 
-# Here I developed a data analysis project using hotel booking data I sourced from a database I created by uploading Excel data sheets. The database was connected to Power BI to answer some business questions and have a visual product at the end.
+ ---> Here I developed a data analysis project using hotel booking data I sourced from a database I created by uploading Excel data sheets. The database was connected to Power BI to answer some business questions and have a visual product at the end.
 
 # Stakeholder's questions that need to be answered:
 
