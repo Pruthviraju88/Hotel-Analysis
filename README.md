@@ -7,13 +7,15 @@ Project About hotel bookings from past 3 years (2018, 2019, 2020) and analysis o
 
 
 " Is our hotel revenue growing over the years? "
-We have two hotel types so it would be good to segment revenue by hotel type.
+
+- We have two hotel types so it would be good to segment revenue by hotel type.
 
 " Should we increase our parking lot size? "
-We have to understand if there is a trend for guests with personal cars.
+
+- We have to understand if there is a trend for guests with personal cars.
 
 " What trends can we see in the data? "
-Focus on average daily rate and guests to explore seasonality.
+- Focus on average daily rate and guests to explore seasonality.
 
 # These Questions can be solved in two ways :
   1. By implementing Query in MySQL
