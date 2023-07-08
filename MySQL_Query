@@ -1,0 +1,16 @@
+# MySQL Query
+--for combining excel files that is data from 2018 , 2019 , 2020 and using meals, market_segment to get required data.
+
+with hotels as (
+SELECT * FROM project_hotel.r2018
+union 
+SELECT * FROM project_hotel.r2019
+union 
+SELECT * FROM project_hotel.r2020 )
+
+select * from hotels
+left join 
+market_segment ms on hotels.market_segment = ms.market_segment
+left join 
+revenue_meal_cost mc on mc.meal = hotels.meal;
+
