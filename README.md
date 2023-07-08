@@ -18,7 +18,8 @@ Focus on average daily rate and guests to explore seasonality.
 # These Questions can be solved in two ways :
   1. By implementing Query in MySQL
   2. By using DAX measures in Power BI
-*Both solutions are given is solutions file
+ 
+ * Both solutions are given is solutions file
 
 
 # Project Pipeline
