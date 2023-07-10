@@ -26,9 +26,9 @@ Project About hotel bookings from past 3 years (2018, 2019, 2020) and analysis o
 
 # Project Pipeline
 
--Build a Database: uploading Excel data sheets -(attached to repo)- to Microsoft SQL Server Studio.
--Develop the SQL Query: queries are attached to the repo.
--Connect Power BI to the Database and Visualize
+- Build a Database: uploading Excel data sheets -(attached to repo)- to Microsoft SQL Server Studio.
+- Develop the SQL Query: queries are attached to the repo.
+- Connect Power BI to the Database and Visualize
 
 # Dashboards image
 * This is an interactive dashboard, you can download it from my repo,
